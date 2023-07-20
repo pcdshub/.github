@@ -12,6 +12,6 @@ pcdshub.
 <p align="center">
   <img src="https://github.com/pcdshub/.github/blob/master/profile/pcds-logo-2.png">
   <br />
-  [Blog](https://confluence.slac.stanford.edu/pages/viewrecentblogposts.action?key=PCDS)
+  <a href="https://confluence.slac.stanford.edu/pages/viewrecentblogposts.action?key=PCDS">Blog</a>
 </p>
 
